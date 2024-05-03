@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.pointerOut{
+    border: 10px solid #181818;
+    width: 500px;
+    height: 100px;
+    background-color: #353535;
+    border-radius: 10px;
+    box-shadow: 10px 10px 14px gray;
+    color: #eeeeec;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.timerSet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
